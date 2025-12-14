@@ -13,12 +13,12 @@ export const portfolio = {
   socials: [
     {
       label: 'GitHub',
-      href: 'https://github.com/your-username',
+      href: 'https://github.com/Vaseekaran-466',
       icon: 'github',
     },
     {
       label: 'LinkedIn',
-      href: 'https://www.linkedin.com/in/your-username',
+      href: 'www.linkedin.com/in/vasee-karan',
       icon: 'linkedin',
     },
   ],
@@ -83,10 +83,10 @@ export const portfolio = {
 
   education: [
     {
-      degree: 'Your Degree',
-      school: 'Your College / University',
-      period: 'Year — Year',
-      details: 'Add your department, grade, or major achievements here.',
+      degree: 'BSC(cs)',
+      school: 'DEVANGA ARTS COLLEGE / affiliated with Madurai Kamaraj University (MKU)',
+      period: '2022-2025',
+      details: 'Computer sience, grade -B,',
     },
   ],
 
@@ -118,6 +118,6 @@ export const portfolio = {
 
   contact: {
     // Replace with your real email
-    email: 'your.email@example.com',
+    email: 'Vaseev362@gmail.com.com',
   },
 }
