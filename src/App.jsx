@@ -177,8 +177,8 @@ export default function App() {
                   <div className="h-2 w-24 rounded-full bg-sky-400/80" />
 
                   <p className="text-sm leading-6 text-slate-300">
-                    Edit your portfolio content in{' '}
-                    <code className="rounded bg-black/30 px-1">src/data/portfolio.js</code>.
+                    <span class="font-bold text-sky-400">MERN Stack Developer</span> focused on building responsive UIs using <span class="font-semibold text-white">React</span> and designing scalable backend applications leveraging <span class="font-semibold text-white">Node.js</span>, <span class="font-semibold text-white">Express</span>, and <span class="font-semibold text-white">MongoDB</span>.
+                    <code className="rounded bg-black/30 px-1">Skilled in React</code>
                   </p>
 
                   {stats.length ? (
@@ -211,7 +211,7 @@ export default function App() {
             </Reveal>
 
             <Reveal className="rounded-2xl border border-white/10 bg-white/5 p-6">
-              <p className="text-sm font-semibold text-white">Highlights</p>
+              <p className="text-sm font-semibold text-white">SKILLS</p>
               <ul className="mt-3 grid gap-2">
                 {(portfolio.highlights ?? []).map((h) => (
                   <li key={h} className="flex gap-2 text-sm text-slate-300">
@@ -414,8 +414,8 @@ export default function App() {
           <div className="mt-6 grid gap-6 lg:grid-cols-2">
             <Reveal className="rounded-2xl border border-white/10 bg-white/5 p-6">
               <p className="text-sm leading-7 text-slate-300">
-                Update your email in{' '}
-                <code className="rounded bg-black/30 px-1">src/data/portfolio.js</code>.
+                More Details 
+                <code className="rounded bg-black/30 px-1"></code>.
               </p>
               <p className="mt-4 text-sm text-slate-300">
                 Email: <span className="text-white">{email || 'your.email@example.com'}</span>

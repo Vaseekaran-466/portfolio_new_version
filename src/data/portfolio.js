@@ -4,7 +4,7 @@ export const portfolio = {
   headline: 'Aspiring Web Developer | MERN Stack Learner',
   tagline:
     'I build modern, responsive web apps with a focus on clean UI and scalable backends.',
-  location: 'India',
+  location: 'Madurai',
   availability: 'Open to internships / fresher roles',
 
   // Optional: add a resume link (pdf / drive link). Leave empty to hide buttons.
