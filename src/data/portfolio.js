@@ -18,7 +18,7 @@ export const portfolio = {
     },
     {
       label: 'LinkedIn',
-      href: 'www.linkedin.com/in/vasee-karan',
+      href: 'https://www.linkedin.com/in/vasee-karan/',
       icon: 'linkedin',
     },
   ],
